@@ -93,7 +93,7 @@ Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/airlin
 ![Screenshot 2025-03-26 232949](https://github.com/user-attachments/assets/9343b109-7012-47a3-9fa7-70c5789c0231)
 
 ![Screenshot 2025-03-27 005920](https://github.com/user-attachments/assets/98d7a90b-d1d7-4935-b160-eec748bf371b)
-![Screenshot 2025-03-26 134914](https://github.com/user-attachments/assets/97309440-f861-475d-b29b-b2f2a4512ede)
+
 
 
 
